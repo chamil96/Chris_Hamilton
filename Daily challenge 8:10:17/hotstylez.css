@@ -1,0 +1,26 @@
+input [type=text] {
+  width: 100%;
+  padding: 10px 22px;
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+.error{
+  color: red;
+}
+legend{
+  color: white;
+  text-align: center;
+}
+
+label{
+  color: white;
+}
+
+html{
+  background-image: url("http://all-things-sloth.com/wp-content/uploads/2014/10/maned-sloth.jpg");
+}
+
+body{
+  background-color: darkgreen;
+}

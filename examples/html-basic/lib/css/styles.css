@@ -1,0 +1,41 @@
+.main-header {
+  color: #fff;
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+  font-size: 60px;
+  background-color: #de0428;
+  margin: -10px -10px -10px -10px;
+  border-radius: 0 0 25px 25px;
+  box-shadow: 0 5px 5px black;
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+h2 {
+  color: #de0428;
+  font-family: 'Anton', sans-serif;
+  font-size: 40px;
+  text-align: center;
+  text-shadow: 0 5px 5px black;
+}
+
+body {
+  background-color:#d6ccc0;
+
+}
+
+p {
+  color: #fff;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 25px;
+  text-align: center;
+  text-shadow: 0 1px 3px black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
